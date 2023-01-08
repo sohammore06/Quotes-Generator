@@ -244,7 +244,7 @@
   }
 }
 
-.container {
+.containerBox {
   border-radius: 0%;
   padding: 20px;
   box-sizing: border-box;
@@ -259,6 +259,7 @@
   font-family: system-ui;
   text-align: center;
   justify-content: center;
+  
 }
 
 .quote-box {
@@ -291,7 +292,7 @@
   -webkit-user-select: none;
   touch-action: manipulation;
   align-self: center;
-  width: 15%;
+  width: 25%;
   justify-content: center;
   margin-right: 40%;
   margin-left: 40%;
